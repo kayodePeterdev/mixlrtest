@@ -74,6 +74,7 @@ height: 400px;
     width: 80%;
     margin: auto;
     display: flex;
+    flex-wrap: wrap;
 }
 .box>:first-child{
     width: 50%;
@@ -98,6 +99,7 @@ height: 400px;
         margin: auto;
         display: flex;
         justify-content: space-between;
+        flex-wrap: wrap;
     }
     .img3> img{
     width: 500px;
@@ -124,6 +126,7 @@ height: 400px;
         width: 80%;
         margin: auto;
         display: flex;
+        flex-wrap: wrap;
         justify-content: space-between;
     }
     .box3>:first-child{
